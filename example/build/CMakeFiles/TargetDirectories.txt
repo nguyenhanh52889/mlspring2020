@@ -1,0 +1,3 @@
+/home/nguyenhanh/ML/example/build/CMakeFiles/rebuild_cache.dir
+/home/nguyenhanh/ML/example/build/CMakeFiles/mnist.dir
+/home/nguyenhanh/ML/example/build/CMakeFiles/edit_cache.dir
